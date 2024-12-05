@@ -1,0 +1,117 @@
+.card-title{
+    font-size: 54px; 
+    font-family: 
+    Inter
+    sans-serif;
+    font-weight: 700;
+}
+.nav-left{
+    font-size: 32px;
+    font-weight: 600;
+    font-family: 
+    Inter
+    sans-serif;
+}
+.card-title2{
+    font-size: 32px; 
+    font-family: 
+    Inter
+    sans-serif;
+    font-weight: 500;
+}
+.card-text{
+    font-size: 16px; 
+    font-family: 
+    Inter
+    sans-serif;
+    font-weight: 600;
+}
+.card-price{
+    font-size: 18px; 
+    font-family: 
+    Inter
+    sans-serif;
+    font-weight: 800; 
+}
+.homepage3{
+    width: 95%;
+    margin: auto;
+}
+.card-title3{
+    color: 
+    RGB(47, 47, 47);
+    font-size: 15px; 
+    font-family: 
+    Inter
+    sans-serif;
+    font-weight: 500; 
+}
+.card-text3{
+    font-size: 14px; 
+    font-family: 
+    Inter
+    sans-serif;
+    font-weight: 400;
+    opacity: .5;
+}
+.title-text{
+    font-size: 32px; 
+    font-family: 
+    Inter
+    sans-serif;
+    font-weight: 500;
+}
+.title-p{
+    color: 
+    RGB(106, 106, 106);
+    font-size: 14px; 
+    font-family: 
+    Inter
+    sans-serif;
+    font-weight: 400;
+}
+.absimage{ 
+  margin-left: 52vh;
+  transform: translateY(-55vh); 
+}
+.pra1{
+    font-size: 32px; 
+    font-family: 
+    Inter
+    sans-serif;
+    font-weight: 500;
+}
+.pra2{
+    color: 
+    RGB(106, 106, 106);
+    font-size: 14px; 
+    font-family: 
+    Inter
+    sans-serif;
+    font-weight: 400;
+}
+.pgrid1{
+    color: 
+    RGB(106, 106, 106);
+    font-size: 14px; 
+    font-family: 
+    Inter
+    sans-serif;
+    font-weight: 400;
+}
+.head5{
+    font-size: 32px; 
+    font-family: 
+    Inter
+    sans-serif;
+    font-weight: 500;  
+}
+.pfoot1{
+    color: 
+    RGB(59, 93, 80);
+    font-size: 32px; 
+    font-family: 
+    Inter
+    sans-serif;
+    font-weight: 500; 
+} 
