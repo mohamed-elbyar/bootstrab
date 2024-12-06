@@ -70,10 +70,7 @@
     sans-serif;
     font-weight: 400;
 }
-.absimage{ 
-  margin-left: 52vh;
-  transform: translateY(-55vh); 
-}
+
 .pra1{
     font-size: 32px; 
     font-family: 
@@ -115,3 +112,12 @@
     sans-serif;
     font-weight: 500; 
 } 
+.nav-foot a {
+    
+    text-decoration: none;
+    color: black;
+}
+.lasttext{
+    width: 95%;
+    margin: auto;
+}
